@@ -1,7 +1,7 @@
 # react-three-fiber-example
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Example and tesing of react-three-fiber usage(https://github.com/pmndrs/react-three-fiber).
+Example and tesing of [react-three-fiber](https://github.com/pmndrs/react-three-fiber) usage.
 
 ## Available Scripts
 
